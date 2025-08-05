@@ -38,6 +38,3 @@ To clean and preprocess a raw dataset by handling missing values, removing dupli
 
 ## ✅ Submission
 Task submitted as per internship guidelines via GitHub repository.
-
-## 🔗 Repository Link
-[GitHub Repository – Task 1](https://github.com/Omkargole06/task1-cleaning)
